@@ -1,2 +1,1 @@
-# favorite-admin
-收藏夹应用后台
+# 图床仓库
